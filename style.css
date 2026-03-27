@@ -1,0 +1,10 @@
+/* Root Variables */
+:root {
+    --beige : #f5f5dc;
+    --brown : #a52a2a;
+    --dark-brown : #654321;
+    --light-brown : #d2b48c;
+    --white : #ffffff;
+    --black : #000000;
+    --font-family : 'Arial', sans-serif;
+}
