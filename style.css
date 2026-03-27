@@ -50,6 +50,7 @@ nav a {
     text-decoration: none;
     color: var(--dark-brown);
     font-weight: bold;
+    font-size:large;
 }
 
 nav a:hover {
@@ -58,3 +59,21 @@ nav a:hover {
 
 
 /* Main Content Styles */
+main {
+    padding: 20px;
+    background-color: var(--beige);
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Footer Styles */
+footer {
+    background-color: var(--pink);
+    color: var(--dark-brown);
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
