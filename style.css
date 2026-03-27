@@ -17,3 +17,11 @@ body {
     background-color: var(--beige);
     color: var(--dark-brown);
 }
+
+/* Header Styles */
+header {
+    background-color: var(--brown);
+    color: var(--white);
+    padding: 20px;
+    text-align: center;
+}
